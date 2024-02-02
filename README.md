@@ -1,7 +1,7 @@
 
 # TinyNote Web Application with ReactJS & Typescript
 
- "TinyNote," a  web app designed with React & TypeScript and Bootstrap for note-taking and organization. With TaggedNotes, you can effortlessly capture your thoughts, ideas, and important information while keeping everything neatly categorized with user-friendly tags. Whether you're a student, professional, or creative thinker, this intuitive tool empowers you to stay organized and access your notes with ease.
+ "TinyNote," a  web app developed by React & TypeScript and Bootstrap for note-taking and organization. With TaggedNotes, you can effortlessly capture your thoughts, ideas, and important information while keeping everything neatly categorized with user-friendly tags. Whether you're a student, professional, or creative thinker, this intuitive tool empowers you to stay organized and access your notes with ease.
 
 
 ## Screenshots
